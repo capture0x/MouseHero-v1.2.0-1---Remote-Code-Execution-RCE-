@@ -1,3 +1,10 @@
+# Exploit Title: MouseHero v1.2.0+1 - Remote Code Execution (RCE)
+# Date: July 26, 2026
+# Exploit Author: tmrswrr / Hulya KARABAG
+# Vendor Homepage: https://mousehero.aprilzz.com
+# Software Link: https://downloads-mousehero.aprilzz.com/downloads/MouseHero-Windows-x86_64-latest.zip
+# Version: 1.2.0+1
+# Tested on: Windows 10 Enterprise LTSC Build 17763
 #!/usr/bin/env python3
 import socket
 import struct
