@@ -1,3 +1,10 @@
+# Exploit Title: MouseHero v1.2.0+1 - power-control
+# Date: July 26, 2026
+# Exploit Author: tmrswrr
+# Vendor Homepage: https://mousehero.aprilzz.com
+# Software Link: https://downloads-mousehero.aprilzz.com/downloads/MouseHero-Windows-x86_64-latest.zip
+# Version: 1.2.0+1
+# Tested on: Windows 10 Enterprise LTSC Build 17763
 #!/usr/bin/env python3
 # MouseHero power-control PoC.
 # Usage:
